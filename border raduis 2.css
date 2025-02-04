@@ -1,0 +1,65 @@
+.main{
+    margin-left: 500px;
+    
+  }
+  .border-1{
+      width: 200px;
+      height:100px ;
+      border-top-left-radius: 100px;
+      border-top-right-radius: 100px;
+      border:5px solid rosybrown ;
+      border-top: red 4px ridge;
+      border-left:red 30px ridge ;
+      border-right: red 30px ridge;
+  border-bottom-style: dashed;
+  
+  
+  }
+  .border-2{
+      width:200px;
+      height: 100px;
+      border-radius: 50px;
+    
+     border-left:20px groove pink ;
+      border-right: 20px  groove  pink ;
+
+  
+  }
+  .border-3{
+      width: 200px;
+      height: 100px;
+      border: 5px solid rgb(27, 133, 178);
+      border-top-right-radius: 100px;
+      border-bottom-right-radius: 100px;
+      box-shadow: 3px 4px 10px  rgb(27, 133, 178) ;
+    
+       border-top-color: darkgreen ;
+       border-bottom-color: blue;
+       border-right-color: red;
+       border-left-color: yellow;
+       border-style: double;
+  
+  }
+  .border-4{
+      width: 200px;
+      height: 100px;
+      border: 25px solid palevioletred;
+      background-color: lightgreen;
+      border-top: 7px solid ;
+      border-bottom: 7px solid palevioletred;
+      border-bottom-left-radius: 100px;
+      border-top-right-radius: 100px;
+      box-shadow: 3px 4px 10px  palevioletred;
+      border-top-color: blue;
+      border-right-color: blue;
+  
+  }
+  .text{
+      text-align: center;
+      color: black;
+      font-size: 20px;
+      margin-top: 30px;
+      font-weight: bolder;
+      
+  }
+  
